@@ -1,0 +1,1 @@
+# QDirStat.AppImage
